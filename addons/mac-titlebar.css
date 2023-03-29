@@ -3,7 +3,7 @@
   --close-button-color: #e92a2ade;
   --maximize-button-color: #f7bc1bde;
   --minimize-button-color: #12db33de;
-  --button-position: row;
+  --button-position: row-reverse;
 }
 
 .withFrame-2dL45i {
@@ -12,7 +12,7 @@
 }
 .typeWindows-2-g3UY {
   flex-direction: var(--button-position);
-  margin-left: 3px !important;
+  margin-right: 3px !important;
 }
 .withFrame-2dL45i .winButton-3UMjdg > svg {
   display: none;
